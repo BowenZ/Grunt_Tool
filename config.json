@@ -1,0 +1,6 @@
+{
+	"banner": "compressed by uglify.js",
+	"date": true,
+	"concatSrc": ["js/1.js", "js/2.js"],
+	"concatDest": "js/3.js"
+}
